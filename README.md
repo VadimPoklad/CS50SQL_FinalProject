@@ -51,7 +51,7 @@ Content Upload: Adding new songs, albums, or artists to the catalog is typically
 
 ## Representation
 
-![bdschema](schema.jpg)
+![schema](https://github.com/VadimPoklad/CS50SQL_FinalProject/assets/91690155/19db0bbe-08b9-4f27-a531-a131635fed4f)
 
 ### Entities
 
